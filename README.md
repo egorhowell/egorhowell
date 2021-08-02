@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egorhowell and welcome to my GitHub!
 
-Most of the work displayed is from my University work and projects as well as some current data science projects I am working on.
+The work dislayed are from my current Data Science and Machine Learning projects as well as my University Physics work!
 
 <!---
 egorhowell/egorhowell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
