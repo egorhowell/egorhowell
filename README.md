@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @egorhowell and welcome to my GitHub!
+👋 Hi, I’m @egorhowell and welcome to my GitHub!
 
 The work dislayed are from my current Data Science and Machine Learning projects as well as my University Physics work!
 
