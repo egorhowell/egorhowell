@@ -5,6 +5,12 @@
 - Active blogger on Medium
 - Masters in Physics Graduate
 
+## Connect With Me
+[![Twitter][1.1]][1] , 
+
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: http://www.twitter.com/egorhowell
 
 ## GitHub Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorhowell&layout=compact&card_width=445&theme=graywhite)
