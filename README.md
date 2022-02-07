@@ -1,5 +1,8 @@
 👋 Hi, I’m @egorhowell and welcome to my GitHub!
 
-The work dislayed are from my current Data Science and Machine Learning projects as well as my University Physics work!
+- Currently working as a Data Scientist
+- Active blogger on Medium
+- Masters in Physics Graduate
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorhowell&layout=default&card_width=910&theme=graywhite)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorhowell&layout=compact&card_width=450&theme=graywhite)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorhowell&show_icons=true&theme=default&hide=contribs)
