@@ -6,7 +6,7 @@
 - Masters in Physics Graduate
 
 ## Connect With Me
-[![Twitter][1.1]][1] , 
+- [Medium Blog](https://medium.com/@egorhowell) 
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
