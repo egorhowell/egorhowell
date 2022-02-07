@@ -7,5 +7,5 @@
 
 
 ## GitHub Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorhowell&layout=default&card_width=500&theme=graywhite)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egorhowell&layout=default&card_width=450&theme=graywhite)
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egorhowell&show_icons=true&theme=default&hide=contribs&card_width=200)
