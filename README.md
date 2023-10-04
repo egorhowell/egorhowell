@@ -9,7 +9,7 @@
 
 
 - :computer: Data Scientist [@Gousto](https://www.gousto.co.uk/), in London UK
-- :hammer_and_wrench: I build models with: `Python` `SQL` `Fortran` `AWS` `PyCharm` `Zsh` ...
+- :hammer_and_wrench: I build models with: `Python` `SQL` `Fortran` `AWS` `PyCharm` `Zsh/Bash` `Databricks` ...
 - :writing_hand: Write technical blogs on [Medium](https://medium.com/@egorhowell) and [Newsletter](https://dishingthedata.substack.com/) 
 - ⚡ I enjoy: reading, playing hockey, lifting weights and running :) 
 - :student: Master's in Physics
