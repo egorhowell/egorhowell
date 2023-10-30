@@ -6,6 +6,7 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/egorphysics)
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9Tl0-lzeDPH4y7LcRwRSQA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9Tl0-lzeDPH4y7LcRwRSQA)
 
 
 - :computer: Data Scientist [@Gousto](https://www.gousto.co.uk/), in London UK
