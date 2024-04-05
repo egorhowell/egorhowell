@@ -3,7 +3,6 @@
 [<img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" />](https://dishingthedata.substack.com/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://uk.linkedin.com/in/egor-howell-092a721b3)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/EgorHowell)
-
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9Tl0-lzeDPH4y7LcRwRSQA)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9Tl0-lzeDPH4y7LcRwRSQA)
 
