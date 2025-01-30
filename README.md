@@ -5,8 +5,8 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9Tl0-lzeDPH4y7LcRwRSQA)
 
 
-- :computer: Data Scientist [@Gousto](https://www.gousto.co.uk/), in London UK
-- :hammer_and_wrench: I build models with: `Python` `SQL` `Fortran` `AWS` `PyCharm` `Zsh/Bash` `Databricks` ...
+- :computer: Machine Learning Engineer [@Deliveroo](https://deliveroo.co.uk/), in London UK
+- :hammer_and_wrench: I build models with: `Python` `SQL` `Fortran` `Rust` `GO` `AWS` `PyCharm` `Zsh/Bash` `Databricks` ...
 - :writing_hand: Write technical blogs on [Medium](https://medium.com/@egorhowell) and [Newsletter](https://dishingthedata.substack.com/) 
 - ⚡ I enjoy: reading, playing hockey, lifting weights and running :) 
 - :student: Master's in Physics
