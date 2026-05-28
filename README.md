@@ -4,6 +4,4 @@ I have worked across traditional companies, big tech, and early-stage startups, 
 
 This field changed my life, and I now help 67k+ people do the same through YouTube and my flagship program, Code To Careers.
 
-My clients have secured offers from the likes of IBM, AXA, Jagex, Visa and we are only getting started.
-
 **[Land Your Dream Data / ML Job - And Boost Your Salary By Up To $150k](https://coaching.egorhowell.com/)**
